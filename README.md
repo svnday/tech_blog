@@ -72,4 +72,4 @@ ________________________________________________________________________________
 Link to repository: [https://github.com/svnday/tech_blog](https://github.com/svnday/tech_blog)  
 Link to deployed app on heroku: [https://another-tech-blog-project.herokuapp.com/](https://another-tech-blog-project.herokuapp.com/)
 
-[Screenshot of Application](https://i.imgur.com/JdnmKRA.png)
+![Screenshot of Application](https://i.imgur.com/JdnmKRA.png)

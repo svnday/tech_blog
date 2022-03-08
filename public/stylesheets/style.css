@@ -168,6 +168,9 @@ box-shadow: 2px 2px var(--dark);
     background-color: var(--dark);
     padding: 1%;
     border-radius: calc(.18rem - 1px) calc(.18rem - 1px) 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .card-body {
